@@ -11,8 +11,7 @@
 
 *Descubra sua saúde através dos seus olhos*
 
-[🌐 Ver Demo](https://samurmsantos.github.io/site_iris_lab/) | [📱 Contato](https://wa.me/5511983910032) | [📧 Email](mailto:franluthu@hotmail.com)
-
+[🌐 Ver Demo](https://samurmsantos.github.io/site_iris_lab/) 
 </div>
 
 ---
