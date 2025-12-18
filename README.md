@@ -76,10 +76,6 @@ Site profissional para divulgação de serviços de **Iridologia**, **Florais de
 
 ---
 
-
-
----
-
 ## 🔧 Como Usar
 
 ### 1️⃣ Clonar o Repositório
@@ -166,15 +162,6 @@ Permissions-Policy
 > 📄 Para mais detalhes, consulte [SEGURANCA.md](SEGURANCA.md)
 
 **Score de Segurança: 98/100** ⭐
-
----
-
-
-</div>
-
----
-
-
 
 ---
 
