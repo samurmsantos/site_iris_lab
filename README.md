@@ -76,25 +76,7 @@ Site profissional para divulgação de serviços de **Iridologia**, **Florais de
 
 ---
 
-## 📁 Estrutura do Projeto
 
-```
-Site_Iridologia/
-│
-├── index.html              # Página principal
-├── index.css              # Estilos globais
-├── index.js               # JavaScript principal
-├── SEGURANCA.md          # Documentação de segurança
-├── README.md             # Este arquivo
-│
-└── assets/               # Recursos visuais
-    ├── olho.png
-    ├── flor-bach.png
-    ├── fitoterapia.png
-    ├── acompanhamento.png
-    ├── lua.png
-    └── Screenshot...png
-```
 
 ---
 
@@ -187,40 +169,12 @@ Permissions-Policy
 
 ---
 
-## 📞 Contato
-
-<div align="center">
-
-### 💬 Entre em Contato
-
-**WhatsApp:** [(11) 98391-0032](https://wa.me/5511983910032)  
-**Email:** [franluthu@hotmail.com](mailto:franluthu@hotmail.com)  
-**Instagram:** [@franmr_iridologa](https://www.instagram.com/franmr_iridologa/)  
-**Localização:** São Paulo - SP
 
 </div>
 
 ---
 
-## 📝 Configuração do Formulário
 
-### Primeira Ativação do FormSubmit
-
-⚠️ **IMPORTANTE**: No primeiro envio do formulário, você receberá um email de confirmação no endereço configurado (`franluthu@hotmail.com`). 
-
-**Passos:**
-1. Preencha e envie o formulário pela primeira vez
-2. Verifique a caixa de entrada do email configurado
-3. Clique no link de ativação enviado pelo FormSubmit
-4. A partir daí, todos os envios funcionarão normalmente
-
-### Alterar Email de Destino
-
-Para receber os formulários em outro email, edite a linha no `index.html`:
-
-```html
-<form class="contact-form" method="POST" action="https://formsubmit.co/SEU-EMAIL-AQUI@example.com">
-```
 
 ---
 
