@@ -198,25 +198,7 @@ Edite a seção `#produtos` no `index.html` e adicione um novo card:
 
 ---
 
-## 🐛 Problemas Conhecidos
-
-- [ ] Menu mobile ainda não implementado (versão desktop funciona perfeitamente)
-- [ ] Página de "obrigado" após envio do formulário precisa ser criada
-
----
-
-## 🔮 Melhorias Futuras
-
-- [ ] Implementar menu hamburguer funcional
-- [ ] Adicionar galeria de fotos
-- [ ] Criar blog com artigos sobre iridologia
-- [ ] Adicionar sistema de agendamento online
-- [ ] Implementar modo escuro
-- [ ] Adicionar mais idiomas (EN, ES)
-
----
-
-## 📄 Licença
+##  Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
