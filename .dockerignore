@@ -1,0 +1,11 @@
+# Git
+.git
+.gitignore
+
+# Documentação
+README.md
+SEGURANCA.md
+
+# Arquivos do Docker
+Dockerfile
+.dockerignore
